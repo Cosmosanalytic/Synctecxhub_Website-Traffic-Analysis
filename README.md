@@ -118,6 +118,7 @@ The analysis reveals that while Organic Social leads in volume, Referral and Org
 The project demonstrates a professional-grade application of Power BI, DAX, and AI-assisted model development (via MCP integration), and serves as a portfolio-ready artefact illustrating competency in business intelligence, data storytelling, and actionable insight generation.
 
 About the Author
+
 Cosmos Isuru
 Data Analyst  │  Power BI Developer  │  Business Intelligence Specialist 
 Specializes in data analytics, HSE/Safety analysis, dashboard development, and business intelligence reporting, with a focus on delivering clear, actionable insights from complex datasets using Power BI and DAX.
